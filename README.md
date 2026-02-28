@@ -1,2 +1,2 @@
 # Algorithm-analysis
-Reference: Algorithm illuminated 1, 2, 3
+Reference: Algorithms illuminated 1, 2, 3
